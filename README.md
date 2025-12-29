@@ -45,5 +45,14 @@ This task was completed as part of an **internship assignment** to gain practica
 5. Properly closes all database resources to avoid memory leaks
 
 ---
+## 🚀 Future Enhancements
+- Remove spaces and special characters before checking
+- Use two-pointer technique instead of reversing the string
+- Extend functionality to check sentences and phrases
+___
+
+## ▶️ Sample Input
+
+<img width="354" height="232" alt="image" src="https://github.com/user-attachments/assets/866998ab-2ff6-46f2-aef0-0d80b0c75deb" />
 
 
